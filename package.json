@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "João Costa",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
